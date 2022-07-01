@@ -1,0 +1,6 @@
+<configuration name="asr.conf" description="Asr Setting">
+  <settings>
+   <param name="appid" value="123456"/>
+   <param name="appkey" value="1111222233334444"/>
+  </settings>
+</configuration>
