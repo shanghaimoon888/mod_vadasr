@@ -40,5 +40,4 @@ NS_LEVEL：降噪级别
                         Vad-RecordFile: 录音路径
 #### #define VAD_EVENT_ASR "vad::asr"
 在检测到静音后，输出语音文本，自定义头：Asr-Text:文本内容，注意文本内容可能为空，表示未识别出。
-
-
+## 代码仅供各位FreeSwitch爱好者参考学习，如有问题可加QQ：1869731（微信同号）沟通交流！！！
